@@ -16,9 +16,7 @@ This project is a simple, intuitive grocery-selling website that allows users to
   
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python (Flask/Django), Node.js, etc.
-- **Database**: MySQL, PostgreSQL, or MongoDB
-- **API Integration**: Payment gateways like Stripe, Razorpay, etc.
+
   
 ![Uploading Screenshot 2024-09-07 225539.png…]()
 
