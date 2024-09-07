@@ -18,5 +18,5 @@ This project is a simple, intuitive grocery-selling website that allows users to
 - **Frontend**: HTML, CSS, JavaScript
 
   
-![Uploading Screenshot 2024-09-07 225539.png…]()
+![Alt text](https://github.com/anjaliSINGH2203/Online-GROCCERY-selling-website/blob/main/Screenshot%202024-09-07%20225539.png)
 
