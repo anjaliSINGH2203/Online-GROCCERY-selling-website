@@ -15,8 +15,8 @@ This project is a simple, intuitive grocery-selling website that allows users to
 - **Order Tracking**: Users can view their past orders and track current orders.
   
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS
 
   
-![Alt text](https://github.com/anjaliSINGH2203/Online-GROCCERY-selling-website/blob/main/Screenshot%202024-09-07%20225539.png)
+
 
